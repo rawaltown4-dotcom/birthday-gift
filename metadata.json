@@ -1,0 +1,6 @@
+{
+  "name": "Personalized Birthday Surprise",
+  "description": "A magical, interactive digital birthday surprise experience with animated cake, personalized letters, gift unwrapping, and interactive celebrations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
